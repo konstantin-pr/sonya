@@ -559,14 +559,17 @@ background-image: linear-gradient(45deg, #663fb5, #f30);
 }
 #footer {
   position: relative;
-  background: #333;
+  background: #5C258D; /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #5C258D , #4389A2); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #5C258D , #4389A2)
+     
 }
 #footer h3 {
   color: #fff;
   font-weight: 900;
 }
 #footer ul li a {
-  color: #ccc;
+  color: yellowgreen;
   transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -webkit-transition: all 0.2s ease;
@@ -579,7 +582,7 @@ background-image: linear-gradient(45deg, #663fb5, #f30);
   margin-left: 4px;
 }
 #copyright {
-  background: #191919;
+  background: #4389A2;
 }
 #copyright .copyright-text {
   color: #fff;

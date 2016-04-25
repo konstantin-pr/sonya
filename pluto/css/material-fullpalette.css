@@ -2592,7 +2592,7 @@ h6 {
 a,
 a:hover,
 a:focus {
-  color: #009688;
+  color: orange;
 }
 body .well.well-sm,
 .container .well.well-sm,
@@ -2669,7 +2669,7 @@ body .well-primary,
 body .jumbotron-primary,
 .container .jumbotron-primary,
 .container-fluid .jumbotron-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 body .well-success,
 .container .well-success,
@@ -2773,7 +2773,7 @@ body .well-material-teal,
 body .jumbotron-material-teal,
 .container .jumbotron-material-teal,
 .container-fluid .jumbotron-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 body .well-material-green,
 .container .well-material-green,
@@ -2899,7 +2899,7 @@ body .well-primary,
 body .jumbotron-primary,
 .container .jumbotron-primary,
 .container-fluid .jumbotron-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 body .well-success,
 .container .well-success,
@@ -3899,7 +3899,7 @@ body .well-material-teal,
 body .jumbotron-material-teal,
 .container .jumbotron-material-teal,
 .container-fluid .jumbotron-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 body .well-material-teal-50,
 .container .well-material-teal-50,
@@ -3947,7 +3947,7 @@ body .well-material-teal-500,
 body .jumbotron-material-teal-500,
 .container .jumbotron-material-teal-500,
 .container-fluid .jumbotron-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
 }
 body .well-material-teal-600,
 .container .well-material-teal-600,
@@ -5257,7 +5257,7 @@ body .well-primary,
 body .jumbotron-primary,
 .container .jumbotron-primary,
 .container-fluid .jumbotron-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 body .well-success,
 .container .well-success,
@@ -5361,7 +5361,7 @@ body .well-material-teal,
 body .jumbotron-material-teal,
 .container .jumbotron-material-teal,
 .container-fluid .jumbotron-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 body .well-material-green,
 .container .well-material-green,
@@ -5487,7 +5487,7 @@ body .well-primary,
 body .jumbotron-primary,
 .container .jumbotron-primary,
 .container-fluid .jumbotron-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 body .well-success,
 .container .well-success,
@@ -6487,7 +6487,7 @@ body .well-material-teal,
 body .jumbotron-material-teal,
 .container .jumbotron-material-teal,
 .container-fluid .jumbotron-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 body .well-material-teal-50,
 .container .well-material-teal-50,
@@ -6535,7 +6535,7 @@ body .well-material-teal-500,
 body .jumbotron-material-teal-500,
 .container .jumbotron-material-teal-500,
 .container-fluid .jumbotron-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
 }
 body .well-material-teal-600,
 .container .well-material-teal-600,
@@ -7834,7 +7834,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .btn-primary.btn-flat:not(.btn-link) {
-  color: #009688;
+  color: orange;
 }
 .btn-success.btn-flat:not(.btn-link) {
   color: #4caf50;
@@ -7873,7 +7873,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00bcd4;
 }
 .btn-material-teal.btn-flat:not(.btn-link) {
-  color: #009688;
+  color: orange;
 }
 .btn-material-green.btn-flat:not(.btn-link) {
   color: #4caf50;
@@ -7919,7 +7919,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .btn-primary.btn-flat:not(.btn-link) {
-  color: #009688;
+  color: orange;
 }
 .btn-success.btn-flat:not(.btn-link) {
   color: #4caf50;
@@ -8294,7 +8294,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00b8d4;
 }
 .btn-material-teal.btn-flat:not(.btn-link) {
-  color: #009688;
+  color: orange;
 }
 .btn-material-teal-50.btn-flat:not(.btn-link) {
   color: #e0f2f1;
@@ -8312,7 +8312,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #26a69a;
 }
 .btn-material-teal-500.btn-flat:not(.btn-link) {
-  color: #009688;
+  color: orange;
 }
 .btn-material-teal-600.btn-flat:not(.btn-link) {
   color: #00897b;
@@ -8802,7 +8802,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .btn-primary.btn-flat:not(.btn-link) {
-  color: #009688;
+  color: orange;
 }
 .btn-success.btn-flat:not(.btn-link) {
   color: #4caf50;
@@ -8841,7 +8841,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00bcd4;
 }
 .btn-material-teal.btn-flat:not(.btn-link) {
-  color: #009688;
+  color: orange;
 }
 .btn-material-green.btn-flat:not(.btn-link) {
   color: #4caf50;
@@ -8887,7 +8887,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .btn-primary.btn-flat:not(.btn-link) {
-  color: #009688;
+  color: orange;
 }
 .btn-success.btn-flat:not(.btn-link) {
   color: #4caf50;
@@ -9262,7 +9262,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00b8d4;
 }
 .btn-material-teal.btn-flat:not(.btn-link) {
-  color: #009688;
+  color: orange;
 }
 .btn-material-teal-50.btn-flat:not(.btn-link) {
   color: #e0f2f1;
@@ -9280,7 +9280,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #26a69a;
 }
 .btn-material-teal-500.btn-flat:not(.btn-link) {
-  color: #009688;
+  color: orange;
 }
 .btn-material-teal-600.btn-flat:not(.btn-link) {
   color: #00897b;
@@ -9775,7 +9775,7 @@ body .jumbotron-material-blue-grey-A700,
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-primary:not(.btn-link):not(.btn-flat) {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-success:not(.btn-link):not(.btn-flat) {
@@ -9827,7 +9827,7 @@ body .jumbotron-material-blue-grey-A700,
   color: rgba(0, 0, 0, 0.84);
 }
 .btn-material-teal:not(.btn-link):not(.btn-flat) {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-material-green:not(.btn-link):not(.btn-flat) {
@@ -9889,7 +9889,7 @@ body .jumbotron-material-blue-grey-A700,
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-primary:not(.btn-link):not(.btn-flat) {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-success:not(.btn-link):not(.btn-flat) {
@@ -10389,7 +10389,7 @@ body .jumbotron-material-blue-grey-A700,
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-material-teal:not(.btn-link):not(.btn-flat) {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-material-teal-50:not(.btn-link):not(.btn-flat) {
@@ -10413,7 +10413,7 @@ body .jumbotron-material-blue-grey-A700,
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-material-teal-500:not(.btn-link):not(.btn-flat) {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-material-teal-600:not(.btn-link):not(.btn-flat) {
@@ -11067,7 +11067,7 @@ body .jumbotron-material-blue-grey-A700,
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-primary:not(.btn-link):not(.btn-flat) {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-success:not(.btn-link):not(.btn-flat) {
@@ -11119,7 +11119,7 @@ body .jumbotron-material-blue-grey-A700,
   color: rgba(0, 0, 0, 0.84);
 }
 .btn-material-teal:not(.btn-link):not(.btn-flat) {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-material-green:not(.btn-link):not(.btn-flat) {
@@ -11181,7 +11181,7 @@ body .jumbotron-material-blue-grey-A700,
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-primary:not(.btn-link):not(.btn-flat) {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-success:not(.btn-link):not(.btn-flat) {
@@ -11681,7 +11681,7 @@ body .jumbotron-material-blue-grey-A700,
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-material-teal:not(.btn-link):not(.btn-flat) {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-material-teal-50:not(.btn-link):not(.btn-flat) {
@@ -11705,7 +11705,7 @@ body .jumbotron-material-blue-grey-A700,
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-material-teal-500:not(.btn-link):not(.btn-flat) {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .btn-material-teal-600:not(.btn-link):not(.btn-flat) {
@@ -12354,7 +12354,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #495bc0;
 }
 .btn-primary:hover:not(.btn-link):not(.btn-flat) {
-  background-color: #00aa9a;
+  background-color: orange;
 }
 .btn-success:hover:not(.btn-link):not(.btn-flat) {
   background-color: #59b75c;
@@ -12393,7 +12393,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00aac0;
 }
 .btn-material-teal:hover:not(.btn-link):not(.btn-flat) {
-  background-color: #00aa9a;
+  background-color: orange;
 }
 .btn-material-green:hover:not(.btn-link):not(.btn-flat) {
   background-color: #59b75c;
@@ -12439,7 +12439,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #495bc0;
 }
 .btn-primary:hover:not(.btn-link):not(.btn-flat) {
-  background-color: #00aa9a;
+  background-color: orange;
 }
 .btn-success:hover:not(.btn-link):not(.btn-flat) {
   background-color: #59b75c;
@@ -12814,7 +12814,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00cae8;
 }
 .btn-material-teal:hover:not(.btn-link):not(.btn-flat) {
-  background-color: #00aa9a;
+  background-color: orange;
 }
 .btn-material-teal-50:hover:not(.btn-link):not(.btn-flat) {
   background-color: #d2eceb;
@@ -12832,7 +12832,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #2ab7a9;
 }
 .btn-material-teal-500:hover:not(.btn-link):not(.btn-flat) {
-  background-color: #00aa9a;
+  background-color: orange;
 }
 .btn-material-teal-600:hover:not(.btn-link):not(.btn-flat) {
   background-color: #009d8d;
@@ -16267,7 +16267,7 @@ body .jumbotron-material-blue-grey-A700,
 .btn.btn-fab-primary,
 .btn.btn-fab:hover-primary,
 .btn.btn-fab:active-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .btn.btn-fab-success,
 .btn.btn-fab:hover-success,
@@ -16332,7 +16332,7 @@ body .jumbotron-material-blue-grey-A700,
 .btn.btn-fab-material-teal,
 .btn.btn-fab:hover-material-teal,
 .btn.btn-fab:active-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .btn.btn-fab-material-green,
 .btn.btn-fab:hover-material-green,
@@ -16410,7 +16410,7 @@ body .jumbotron-material-blue-grey-A700,
 .btn.btn-fab-primary,
 .btn.btn-fab:hover-primary,
 .btn.btn-fab:active-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .btn.btn-fab-success,
 .btn.btn-fab:hover-success,
@@ -17035,7 +17035,7 @@ body .jumbotron-material-blue-grey-A700,
 .btn.btn-fab-material-teal,
 .btn.btn-fab:hover-material-teal,
 .btn.btn-fab:active-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .btn.btn-fab-material-teal-50,
 .btn.btn-fab:hover-material-teal-50,
@@ -17065,7 +17065,7 @@ body .jumbotron-material-blue-grey-A700,
 .btn.btn-fab-material-teal-500,
 .btn.btn-fab:hover-material-teal-500,
 .btn.btn-fab:active-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
 }
 .btn.btn-fab-material-teal-600,
 .btn.btn-fab:hover-material-teal-600,
@@ -17883,7 +17883,7 @@ body .jumbotron-material-blue-grey-A700,
 .btn.btn-fab-primary,
 .btn.btn-fab:hover-primary,
 .btn.btn-fab:active-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .btn.btn-fab-success,
 .btn.btn-fab:hover-success,
@@ -17948,7 +17948,7 @@ body .jumbotron-material-blue-grey-A700,
 .btn.btn-fab-material-teal,
 .btn.btn-fab:hover-material-teal,
 .btn.btn-fab:active-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .btn.btn-fab-material-green,
 .btn.btn-fab:hover-material-green,
@@ -18026,7 +18026,7 @@ body .jumbotron-material-blue-grey-A700,
 .btn.btn-fab-primary,
 .btn.btn-fab:hover-primary,
 .btn.btn-fab:active-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .btn.btn-fab-success,
 .btn.btn-fab:hover-success,
@@ -18651,7 +18651,7 @@ body .jumbotron-material-blue-grey-A700,
 .btn.btn-fab-material-teal,
 .btn.btn-fab:hover-material-teal,
 .btn.btn-fab:active-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .btn.btn-fab-material-teal-50,
 .btn.btn-fab:hover-material-teal-50,
@@ -18681,7 +18681,7 @@ body .jumbotron-material-blue-grey-A700,
 .btn.btn-fab-material-teal-500,
 .btn.btn-fab:hover-material-teal-500,
 .btn.btn-fab:active-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
 }
 .btn.btn-fab-material-teal-600,
 .btn.btn-fab:hover-material-teal-600,
@@ -19527,7 +19527,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .open > .dropdown-toggle.btn-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .open > .dropdown-toggle.btn-success {
   background-color: #4caf50;
@@ -19566,7 +19566,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00bcd4;
 }
 .open > .dropdown-toggle.btn-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .open > .dropdown-toggle.btn-material-green {
   background-color: #4caf50;
@@ -19612,7 +19612,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .open > .dropdown-toggle.btn-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .open > .dropdown-toggle.btn-success {
   background-color: #4caf50;
@@ -19987,7 +19987,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00b8d4;
 }
 .open > .dropdown-toggle.btn-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .open > .dropdown-toggle.btn-material-teal-50 {
   background-color: #e0f2f1;
@@ -20005,7 +20005,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #26a69a;
 }
 .open > .dropdown-toggle.btn-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
 }
 .open > .dropdown-toggle.btn-material-teal-600 {
   background-color: #00897b;
@@ -20495,7 +20495,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .open > .dropdown-toggle.btn-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .open > .dropdown-toggle.btn-success {
   background-color: #4caf50;
@@ -20534,7 +20534,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00bcd4;
 }
 .open > .dropdown-toggle.btn-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .open > .dropdown-toggle.btn-material-green {
   background-color: #4caf50;
@@ -20580,7 +20580,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .open > .dropdown-toggle.btn-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .open > .dropdown-toggle.btn-success {
   background-color: #4caf50;
@@ -20955,7 +20955,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00b8d4;
 }
 .open > .dropdown-toggle.btn-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .open > .dropdown-toggle.btn-material-teal-50 {
   background-color: #e0f2f1;
@@ -20973,7 +20973,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #26a69a;
 }
 .open > .dropdown-toggle.btn-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
 }
 .open > .dropdown-toggle.btn-material-teal-600 {
   background-color: #00897b;
@@ -21613,7 +21613,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check:after {
   background-color: #4caf50;
@@ -21652,7 +21652,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00bcd4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .checkbox-material-green input[type=checkbox]:checked + .checkbox-material .check:after {
   background-color: #4caf50;
@@ -21698,7 +21698,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check:after {
   background-color: #4caf50;
@@ -22073,7 +22073,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00b8d4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .checkbox-material-teal-50 input[type=checkbox]:checked + .checkbox-material .check:after {
   background-color: #e0f2f1;
@@ -22091,7 +22091,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #26a69a;
 }
 .checkbox-material-teal-500 input[type=checkbox]:checked + .checkbox-material .check:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .checkbox-material-teal-600 input[type=checkbox]:checked + .checkbox-material .check:after {
   background-color: #00897b;
@@ -22581,7 +22581,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check:after {
   background-color: #4caf50;
@@ -22620,7 +22620,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00bcd4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .checkbox-material-green input[type=checkbox]:checked + .checkbox-material .check:after {
   background-color: #4caf50;
@@ -22666,7 +22666,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check:after {
   background-color: #4caf50;
@@ -23041,7 +23041,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00b8d4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .checkbox-material-teal-50 input[type=checkbox]:checked + .checkbox-material .check:after {
   background-color: #e0f2f1;
@@ -23059,7 +23059,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #26a69a;
 }
 .checkbox-material-teal-500 input[type=checkbox]:checked + .checkbox-material .check:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .checkbox-material-teal-600 input[type=checkbox]:checked + .checkbox-material .check:after {
   background-color: #00897b;
@@ -23549,7 +23549,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check:before {
-  color: #009688;
+  color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check:before {
   color: #4caf50;
@@ -23588,7 +23588,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00bcd4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check:before {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-green input[type=checkbox]:checked + .checkbox-material .check:before {
   color: #4caf50;
@@ -23634,7 +23634,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check:before {
-  color: #009688;
+  color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check:before {
   color: #4caf50;
@@ -24009,7 +24009,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00b8d4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check:before {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-teal-50 input[type=checkbox]:checked + .checkbox-material .check:before {
   color: #e0f2f1;
@@ -24027,7 +24027,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #26a69a;
 }
 .checkbox-material-teal-500 input[type=checkbox]:checked + .checkbox-material .check:before {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-teal-600 input[type=checkbox]:checked + .checkbox-material .check:before {
   color: #00897b;
@@ -24517,7 +24517,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check:before {
-  color: #009688;
+  color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check:before {
   color: #4caf50;
@@ -24556,7 +24556,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00bcd4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check:before {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-green input[type=checkbox]:checked + .checkbox-material .check:before {
   color: #4caf50;
@@ -24602,7 +24602,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check:before {
-  color: #009688;
+  color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check:before {
   color: #4caf50;
@@ -24977,7 +24977,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00b8d4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check:before {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-teal-50 input[type=checkbox]:checked + .checkbox-material .check:before {
   color: #e0f2f1;
@@ -24995,7 +24995,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #26a69a;
 }
 .checkbox-material-teal-500 input[type=checkbox]:checked + .checkbox-material .check:before {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-teal-600 input[type=checkbox]:checked + .checkbox-material .check:before {
   color: #00897b;
@@ -25485,7 +25485,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check {
-  color: #009688;
+  color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check {
   color: #4caf50;
@@ -25524,7 +25524,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00bcd4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-green input[type=checkbox]:checked + .checkbox-material .check {
   color: #4caf50;
@@ -25570,7 +25570,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check {
-  color: #009688;
+  color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check {
   color: #4caf50;
@@ -25945,7 +25945,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00b8d4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-teal-50 input[type=checkbox]:checked + .checkbox-material .check {
   color: #e0f2f1;
@@ -25963,7 +25963,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #26a69a;
 }
 .checkbox-material-teal-500 input[type=checkbox]:checked + .checkbox-material .check {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-teal-600 input[type=checkbox]:checked + .checkbox-material .check {
   color: #00897b;
@@ -26453,7 +26453,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check {
-  color: #009688;
+  color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check {
   color: #4caf50;
@@ -26492,7 +26492,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00bcd4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-green input[type=checkbox]:checked + .checkbox-material .check {
   color: #4caf50;
@@ -26538,7 +26538,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #3f51b5;
 }
 .checkbox-primary input[type=checkbox]:checked + .checkbox-material .check {
-  color: #009688;
+  color: orange;
 }
 .checkbox-success input[type=checkbox]:checked + .checkbox-material .check {
   color: #4caf50;
@@ -26913,7 +26913,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #00b8d4;
 }
 .checkbox-material-teal input[type=checkbox]:checked + .checkbox-material .check {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-teal-50 input[type=checkbox]:checked + .checkbox-material .check {
   color: #e0f2f1;
@@ -26931,7 +26931,7 @@ body .jumbotron-material-blue-grey-A700,
   color: #26a69a;
 }
 .checkbox-material-teal-500 input[type=checkbox]:checked + .checkbox-material .check {
-  color: #009688;
+  color: orange;
 }
 .checkbox-material-teal-600 input[type=checkbox]:checked + .checkbox-material .check {
   color: #00897b;
@@ -28594,7 +28594,7 @@ body .jumbotron-material-blue-grey-A700,
 }
 .togglebutton label input[type=checkbox]:checked + .toggle:after,
 .togglebutton-default label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-black label input[type=checkbox]:checked + .toggle:after {
   background-color: #000000;
@@ -28606,7 +28606,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .togglebutton-primary label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-success label input[type=checkbox]:checked + .toggle:after {
   background-color: #4caf50;
@@ -28645,7 +28645,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00bcd4;
 }
 .togglebutton-material-teal label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-material-green label input[type=checkbox]:checked + .toggle:after {
   background-color: #4caf50;
@@ -28679,7 +28679,7 @@ body .jumbotron-material-blue-grey-A700,
 }
 .togglebutton label input[type=checkbox]:checked + .toggle:after,
 .togglebutton-default label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-black label input[type=checkbox]:checked + .toggle:after {
   background-color: #000000;
@@ -28691,7 +28691,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .togglebutton-primary label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-success label input[type=checkbox]:checked + .toggle:after {
   background-color: #4caf50;
@@ -29066,7 +29066,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00b8d4;
 }
 .togglebutton-material-teal label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-material-teal-50 label input[type=checkbox]:checked + .toggle:after {
   background-color: #e0f2f1;
@@ -29084,7 +29084,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #26a69a;
 }
 .togglebutton-material-teal-500 label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-material-teal-600 label input[type=checkbox]:checked + .toggle:after {
   background-color: #00897b;
@@ -29562,7 +29562,7 @@ body .jumbotron-material-blue-grey-A700,
 }
 .togglebutton label input[type=checkbox]:checked + .toggle:after,
 .togglebutton-default label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-black label input[type=checkbox]:checked + .toggle:after {
   background-color: #000000;
@@ -29574,7 +29574,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .togglebutton-primary label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-success label input[type=checkbox]:checked + .toggle:after {
   background-color: #4caf50;
@@ -29613,7 +29613,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00bcd4;
 }
 .togglebutton-material-teal label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-material-green label input[type=checkbox]:checked + .toggle:after {
   background-color: #4caf50;
@@ -29647,7 +29647,7 @@ body .jumbotron-material-blue-grey-A700,
 }
 .togglebutton label input[type=checkbox]:checked + .toggle:after,
 .togglebutton-default label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-black label input[type=checkbox]:checked + .toggle:after {
   background-color: #000000;
@@ -29659,7 +29659,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .togglebutton-primary label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-success label input[type=checkbox]:checked + .toggle:after {
   background-color: #4caf50;
@@ -30034,7 +30034,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00b8d4;
 }
 .togglebutton-material-teal label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-material-teal-50 label input[type=checkbox]:checked + .toggle:after {
   background-color: #e0f2f1;
@@ -30052,7 +30052,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #26a69a;
 }
 .togglebutton-material-teal-500 label input[type=checkbox]:checked + .toggle:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .togglebutton-material-teal-600 label input[type=checkbox]:checked + .toggle:after {
   background-color: #00897b;
@@ -31563,7 +31563,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .radio-primary input[type=radio]:checked ~ .check {
-  background-color: #009688;
+  background-color: orange;
 }
 .radio-success input[type=radio]:checked ~ .check {
   background-color: #4caf50;
@@ -31602,7 +31602,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00bcd4;
 }
 .radio-material-teal input[type=radio]:checked ~ .check {
-  background-color: #009688;
+  background-color: orange;
 }
 .radio-material-green input[type=radio]:checked ~ .check {
   background-color: #4caf50;
@@ -31648,7 +31648,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .radio-primary input[type=radio]:checked ~ .check {
-  background-color: #009688;
+  background-color: orange;
 }
 .radio-success input[type=radio]:checked ~ .check {
   background-color: #4caf50;
@@ -32023,7 +32023,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00b8d4;
 }
 .radio-material-teal input[type=radio]:checked ~ .check {
-  background-color: #009688;
+  background-color: orange;
 }
 .radio-material-teal-50 input[type=radio]:checked ~ .check {
   background-color: #e0f2f1;
@@ -32041,7 +32041,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #26a69a;
 }
 .radio-material-teal-500 input[type=radio]:checked ~ .check {
-  background-color: #009688;
+  background-color: orange;
 }
 .radio-material-teal-600 input[type=radio]:checked ~ .check {
   background-color: #00897b;
@@ -32531,7 +32531,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .radio-primary input[type=radio]:checked ~ .check {
-  background-color: #009688;
+  background-color: orange;
 }
 .radio-success input[type=radio]:checked ~ .check {
   background-color: #4caf50;
@@ -32570,7 +32570,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00bcd4;
 }
 .radio-material-teal input[type=radio]:checked ~ .check {
-  background-color: #009688;
+  background-color: orange;
 }
 .radio-material-green input[type=radio]:checked ~ .check {
   background-color: #4caf50;
@@ -32616,7 +32616,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #3f51b5;
 }
 .radio-primary input[type=radio]:checked ~ .check {
-  background-color: #009688;
+  background-color: orange;
 }
 .radio-success input[type=radio]:checked ~ .check {
   background-color: #4caf50;
@@ -32991,7 +32991,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #00b8d4;
 }
 .radio-material-teal input[type=radio]:checked ~ .check {
-  background-color: #009688;
+  background-color: orange;
 }
 .radio-material-teal-50 input[type=radio]:checked ~ .check {
   background-color: #e0f2f1;
@@ -33009,7 +33009,7 @@ body .jumbotron-material-blue-grey-A700,
   background-color: #26a69a;
 }
 .radio-material-teal-500 input[type=radio]:checked ~ .check {
-  background-color: #009688;
+  background-color: orange;
 }
 .radio-material-teal-600 input[type=radio]:checked ~ .check {
   background-color: #00897b;
@@ -33499,7 +33499,7 @@ body .jumbotron-material-blue-grey-A700,
   border-color: #3f51b5;
 }
 .radio-primary input[type=radio]:checked ~ .circle {
-  border-color: #009688;
+  border-color: orange;
 }
 .radio-success input[type=radio]:checked ~ .circle {
   border-color: #4caf50;
@@ -33538,7 +33538,7 @@ body .jumbotron-material-blue-grey-A700,
   border-color: #00bcd4;
 }
 .radio-material-teal input[type=radio]:checked ~ .circle {
-  border-color: #009688;
+  border-color: orange;
 }
 .radio-material-green input[type=radio]:checked ~ .circle {
   border-color: #4caf50;
@@ -33584,7 +33584,7 @@ body .jumbotron-material-blue-grey-A700,
   border-color: #3f51b5;
 }
 .radio-primary input[type=radio]:checked ~ .circle {
-  border-color: #009688;
+  border-color: orange;
 }
 .radio-success input[type=radio]:checked ~ .circle {
   border-color: #4caf50;
@@ -33959,7 +33959,7 @@ body .jumbotron-material-blue-grey-A700,
   border-color: #00b8d4;
 }
 .radio-material-teal input[type=radio]:checked ~ .circle {
-  border-color: #009688;
+  border-color: orange;
 }
 .radio-material-teal-50 input[type=radio]:checked ~ .circle {
   border-color: #e0f2f1;
@@ -33977,7 +33977,7 @@ body .jumbotron-material-blue-grey-A700,
   border-color: #26a69a;
 }
 .radio-material-teal-500 input[type=radio]:checked ~ .circle {
-  border-color: #009688;
+  border-color: orange;
 }
 .radio-material-teal-600 input[type=radio]:checked ~ .circle {
   border-color: #00897b;
@@ -34467,7 +34467,7 @@ body .jumbotron-material-blue-grey-A700,
   border-color: #3f51b5;
 }
 .radio-primary input[type=radio]:checked ~ .circle {
-  border-color: #009688;
+  border-color: orange;
 }
 .radio-success input[type=radio]:checked ~ .circle {
   border-color: #4caf50;
@@ -34506,7 +34506,7 @@ body .jumbotron-material-blue-grey-A700,
   border-color: #00bcd4;
 }
 .radio-material-teal input[type=radio]:checked ~ .circle {
-  border-color: #009688;
+  border-color: orange;
 }
 .radio-material-green input[type=radio]:checked ~ .circle {
   border-color: #4caf50;
@@ -34552,7 +34552,7 @@ body .jumbotron-material-blue-grey-A700,
   border-color: #3f51b5;
 }
 .radio-primary input[type=radio]:checked ~ .circle {
-  border-color: #009688;
+  border-color: orange;
 }
 .radio-success input[type=radio]:checked ~ .circle {
   border-color: #4caf50;
@@ -34927,7 +34927,7 @@ body .jumbotron-material-blue-grey-A700,
   border-color: #00b8d4;
 }
 .radio-material-teal input[type=radio]:checked ~ .circle {
-  border-color: #009688;
+  border-color: orange;
 }
 .radio-material-teal-50 input[type=radio]:checked ~ .circle {
   border-color: #e0f2f1;
@@ -34945,7 +34945,7 @@ body .jumbotron-material-blue-grey-A700,
   border-color: #26a69a;
 }
 .radio-material-teal-500 input[type=radio]:checked ~ .circle {
-  border-color: #009688;
+  border-color: orange;
 }
 .radio-material-teal-600 input[type=radio]:checked ~ .circle {
   border-color: #00897b;
@@ -35495,7 +35495,7 @@ select[multiple].form-control.focus {
 }
 .form-control {
   border: 0;
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
   background-size: 0 2px, 100% 1px;
   background-repeat: no-repeat;
   background-position: center bottom, center calc(100% - 1px);
@@ -35532,7 +35532,7 @@ fieldset[disabled] .form-control.focus:disabled,
 .form-control:focus,
 .form-control.focus {
   outline: none;
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
   background-size: 100% 2px, 100% 1px;
   box-shadow: none;
   transition-duration: 0.3s;
@@ -35575,7 +35575,7 @@ fieldset[disabled] .form-control.focus:disabled,
   font-size: 12.6px;
 }
 .form-control-wrapper .form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-control-wrapper .form-control:not(.empty):invalid ~ .floating-label,
 .form-control-wrapper .form-control.focus:invalid ~ .floating-label {
@@ -35583,7 +35583,7 @@ fieldset[disabled] .form-control.focus:disabled,
 }
 .form-control-wrapper .form-control:focus ~ .material-input:after,
 .form-control-wrapper .form-control.focus ~ .material-input:after {
-  background-color: #009688;
+  background-color: orange;
 }
 .form-control-wrapper .form-control:invalid {
   background-image: linear-gradient(#f44336, #f44336), linear-gradient(#d2d2d2, #d2d2d2);
@@ -35663,7 +35663,7 @@ fieldset[disabled] .form-control.focus:disabled,
 }
 .form-group .form-control:focus,
 .form-group-default .form-control:focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-black .form-control:focus {
   background-image: linear-gradient(#000000, #000000), linear-gradient(#d2d2d2, #d2d2d2);
@@ -35675,7 +35675,7 @@ fieldset[disabled] .form-control.focus:disabled,
   background-image: linear-gradient(#3f51b5, #3f51b5), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-primary .form-control:focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-success .form-control:focus {
   background-image: linear-gradient(#4caf50, #4caf50), linear-gradient(#d2d2d2, #d2d2d2);
@@ -35714,7 +35714,7 @@ fieldset[disabled] .form-control.focus:disabled,
   background-image: linear-gradient(#00bcd4, #00bcd4), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-teal .form-control:focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-green .form-control:focus {
   background-image: linear-gradient(#4caf50, #4caf50), linear-gradient(#d2d2d2, #d2d2d2);
@@ -35748,7 +35748,7 @@ fieldset[disabled] .form-control.focus:disabled,
 }
 .form-group .form-control:focus,
 .form-group-default .form-control:focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-black .form-control:focus {
   background-image: linear-gradient(#000000, #000000), linear-gradient(#d2d2d2, #d2d2d2);
@@ -35760,7 +35760,7 @@ fieldset[disabled] .form-control.focus:disabled,
   background-image: linear-gradient(#3f51b5, #3f51b5), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-primary .form-control:focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-success .form-control:focus {
   background-image: linear-gradient(#4caf50, #4caf50), linear-gradient(#d2d2d2, #d2d2d2);
@@ -36135,7 +36135,7 @@ fieldset[disabled] .form-control.focus:disabled,
   background-image: linear-gradient(#00b8d4, #00b8d4), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-teal .form-control:focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-teal-50 .form-control:focus {
   background-image: linear-gradient(#e0f2f1, #e0f2f1), linear-gradient(#d2d2d2, #d2d2d2);
@@ -36153,7 +36153,7 @@ fieldset[disabled] .form-control.focus:disabled,
   background-image: linear-gradient(#26a69a, #26a69a), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-teal-500 .form-control:focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-teal-600 .form-control:focus {
   background-image: linear-gradient(#00897b, #00897b), linear-gradient(#d2d2d2, #d2d2d2);
@@ -36631,7 +36631,7 @@ fieldset[disabled] .form-control.focus:disabled,
 }
 .form-group .form-control.focus,
 .form-group-default .form-control.focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-black .form-control.focus {
   background-image: linear-gradient(#000000, #000000), linear-gradient(#d2d2d2, #d2d2d2);
@@ -36643,7 +36643,7 @@ fieldset[disabled] .form-control.focus:disabled,
   background-image: linear-gradient(#3f51b5, #3f51b5), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-primary .form-control.focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-success .form-control.focus {
   background-image: linear-gradient(#4caf50, #4caf50), linear-gradient(#d2d2d2, #d2d2d2);
@@ -36682,7 +36682,7 @@ fieldset[disabled] .form-control.focus:disabled,
   background-image: linear-gradient(#00bcd4, #00bcd4), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-teal .form-control.focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-green .form-control.focus {
   background-image: linear-gradient(#4caf50, #4caf50), linear-gradient(#d2d2d2, #d2d2d2);
@@ -36716,7 +36716,7 @@ fieldset[disabled] .form-control.focus:disabled,
 }
 .form-group .form-control.focus,
 .form-group-default .form-control.focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-black .form-control.focus {
   background-image: linear-gradient(#000000, #000000), linear-gradient(#d2d2d2, #d2d2d2);
@@ -36728,7 +36728,7 @@ fieldset[disabled] .form-control.focus:disabled,
   background-image: linear-gradient(#3f51b5, #3f51b5), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-primary .form-control.focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-success .form-control.focus {
   background-image: linear-gradient(#4caf50, #4caf50), linear-gradient(#d2d2d2, #d2d2d2);
@@ -37103,7 +37103,7 @@ fieldset[disabled] .form-control.focus:disabled,
   background-image: linear-gradient(#00b8d4, #00b8d4), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-teal .form-control.focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-teal-50 .form-control.focus {
   background-image: linear-gradient(#e0f2f1, #e0f2f1), linear-gradient(#d2d2d2, #d2d2d2);
@@ -37121,7 +37121,7 @@ fieldset[disabled] .form-control.focus:disabled,
   background-image: linear-gradient(#26a69a, #26a69a), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-teal-500 .form-control.focus {
-  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-image: linear-gradient(orange, orange), linear-gradient(#d2d2d2, #d2d2d2);
 }
 .form-group-material-teal-600 .form-control.focus {
   background-image: linear-gradient(#00897b, #00897b), linear-gradient(#d2d2d2, #d2d2d2);
@@ -37611,7 +37611,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #3f51b5;
 }
 .form-group-primary .control-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-success .control-label {
   color: #4caf50;
@@ -37650,7 +37650,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #00bcd4;
 }
 .form-group-material-teal .control-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-green .control-label {
   color: #4caf50;
@@ -37696,7 +37696,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #3f51b5;
 }
 .form-group-primary .control-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-success .control-label {
   color: #4caf50;
@@ -38071,7 +38071,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #00b8d4;
 }
 .form-group-material-teal .control-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-teal-50 .control-label {
   color: #e0f2f1;
@@ -38089,7 +38089,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #26a69a;
 }
 .form-group-material-teal-500 .control-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-teal-600 .control-label {
   color: #00897b;
@@ -38579,7 +38579,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #3f51b5;
 }
 .form-group-primary .control-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-success .control-label {
   color: #4caf50;
@@ -38618,7 +38618,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #00bcd4;
 }
 .form-group-material-teal .control-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-green .control-label {
   color: #4caf50;
@@ -38664,7 +38664,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #3f51b5;
 }
 .form-group-primary .control-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-success .control-label {
   color: #4caf50;
@@ -39039,7 +39039,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #00b8d4;
 }
 .form-group-material-teal .control-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-teal-50 .control-label {
   color: #e0f2f1;
@@ -39057,7 +39057,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #26a69a;
 }
 .form-group-material-teal-500 .control-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-teal-600 .control-label {
   color: #00897b;
@@ -39535,7 +39535,7 @@ fieldset[disabled] .form-control.focus:disabled,
 }
 .form-group input.form-control:focus ~ .floating-label,
 .form-group-default input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-black input.form-control:focus ~ .floating-label {
   color: #000000;
@@ -39547,7 +39547,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #3f51b5;
 }
 .form-group-primary input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-success input.form-control:focus ~ .floating-label {
   color: #4caf50;
@@ -39586,7 +39586,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #00bcd4;
 }
 .form-group-material-teal input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-green input.form-control:focus ~ .floating-label {
   color: #4caf50;
@@ -39620,7 +39620,7 @@ fieldset[disabled] .form-control.focus:disabled,
 }
 .form-group input.form-control:focus ~ .floating-label,
 .form-group-default input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-black input.form-control:focus ~ .floating-label {
   color: #000000;
@@ -39632,7 +39632,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #3f51b5;
 }
 .form-group-primary input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-success input.form-control:focus ~ .floating-label {
   color: #4caf50;
@@ -40007,7 +40007,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #00b8d4;
 }
 .form-group-material-teal input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-teal-50 input.form-control:focus ~ .floating-label {
   color: #e0f2f1;
@@ -40025,7 +40025,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #26a69a;
 }
 .form-group-material-teal-500 input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-teal-600 input.form-control:focus ~ .floating-label {
   color: #00897b;
@@ -40503,7 +40503,7 @@ fieldset[disabled] .form-control.focus:disabled,
 }
 .form-group input.form-control:focus ~ .floating-label,
 .form-group-default input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-black input.form-control:focus ~ .floating-label {
   color: #000000;
@@ -40515,7 +40515,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #3f51b5;
 }
 .form-group-primary input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-success input.form-control:focus ~ .floating-label {
   color: #4caf50;
@@ -40554,7 +40554,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #00bcd4;
 }
 .form-group-material-teal input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-green input.form-control:focus ~ .floating-label {
   color: #4caf50;
@@ -40588,7 +40588,7 @@ fieldset[disabled] .form-control.focus:disabled,
 }
 .form-group input.form-control:focus ~ .floating-label,
 .form-group-default input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-black input.form-control:focus ~ .floating-label {
   color: #000000;
@@ -40600,7 +40600,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #3f51b5;
 }
 .form-group-primary input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-success input.form-control:focus ~ .floating-label {
   color: #4caf50;
@@ -40975,7 +40975,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #00b8d4;
 }
 .form-group-material-teal input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-teal-50 input.form-control:focus ~ .floating-label {
   color: #e0f2f1;
@@ -40993,7 +40993,7 @@ fieldset[disabled] .form-control.focus:disabled,
   color: #26a69a;
 }
 .form-group-material-teal-500 input.form-control:focus ~ .floating-label {
-  color: #009688;
+  color: orange;
 }
 .form-group-material-teal-600 input.form-control:focus ~ .floating-label {
   color: #00897b;
@@ -41621,7 +41621,7 @@ legend {
   float: right;
 }
 .navbar {
-  background-color: #009688;
+  background-color: orange;
   border: 0;
   border-radius: 0;
 }
@@ -41757,7 +41757,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .navbar.navbar,
 .navbar-default.navbar {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar.navbar .navbar-form .form-control-wrapper input.form-control::-webkit-input-placeholder,
@@ -41797,12 +41797,12 @@ fieldset[disabled] .navbar .btn-link:focus {
 .navbar-default.navbar .dropdown-menu li > a:hover,
 .navbar.navbar .dropdown-menu li > a:focus,
 .navbar-default.navbar .dropdown-menu li > a:focus {
-  color: #009688;
+  color: orange;
   background-color: #eeeeee;
 }
 .navbar.navbar .dropdown-menu .active > a,
 .navbar-default.navbar .dropdown-menu .active > a {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar.navbar .dropdown-menu .active > a:hover,
@@ -41932,7 +41932,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-primary.navbar {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-primary.navbar .navbar-form .form-control-wrapper input.form-control::-webkit-input-placeholder,
@@ -41960,11 +41960,11 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .navbar-primary.navbar .dropdown-menu li > a:hover,
 .navbar-primary.navbar .dropdown-menu li > a:focus {
-  color: #009688;
+  color: orange;
   background-color: #eeeeee;
 }
 .navbar-primary.navbar .dropdown-menu .active > a {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-primary.navbar .dropdown-menu .active > a:hover,
@@ -42452,7 +42452,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: rgba(0, 0, 0, 0.84);
 }
 .navbar-material-teal.navbar {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-material-teal.navbar .navbar-form .form-control-wrapper input.form-control::-webkit-input-placeholder,
@@ -42480,11 +42480,11 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .navbar-material-teal.navbar .dropdown-menu li > a:hover,
 .navbar-material-teal.navbar .dropdown-menu li > a:focus {
-  color: #009688;
+  color: orange;
   background-color: #eeeeee;
 }
 .navbar-material-teal.navbar .dropdown-menu .active > a {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-material-teal.navbar .dropdown-menu .active > a:hover,
@@ -42893,7 +42893,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .navbar.navbar,
 .navbar-default.navbar {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar.navbar .navbar-form .form-control-wrapper input.form-control::-webkit-input-placeholder,
@@ -42933,12 +42933,12 @@ fieldset[disabled] .navbar .btn-link:focus {
 .navbar-default.navbar .dropdown-menu li > a:hover,
 .navbar.navbar .dropdown-menu li > a:focus,
 .navbar-default.navbar .dropdown-menu li > a:focus {
-  color: #009688;
+  color: orange;
   background-color: #eeeeee;
 }
 .navbar.navbar .dropdown-menu .active > a,
 .navbar-default.navbar .dropdown-menu .active > a {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar.navbar .dropdown-menu .active > a:hover,
@@ -43068,7 +43068,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-primary.navbar {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-primary.navbar .navbar-form .form-control-wrapper input.form-control::-webkit-input-placeholder,
@@ -43096,11 +43096,11 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .navbar-primary.navbar .dropdown-menu li > a:hover,
 .navbar-primary.navbar .dropdown-menu li > a:focus {
-  color: #009688;
+  color: orange;
   background-color: #eeeeee;
 }
 .navbar-primary.navbar .dropdown-menu .active > a {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-primary.navbar .dropdown-menu .active > a:hover,
@@ -48068,7 +48068,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-material-teal.navbar {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-material-teal.navbar .navbar-form .form-control-wrapper input.form-control::-webkit-input-placeholder,
@@ -48096,11 +48096,11 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .navbar-material-teal.navbar .dropdown-menu li > a:hover,
 .navbar-material-teal.navbar .dropdown-menu li > a:focus {
-  color: #009688;
+  color: orange;
   background-color: #eeeeee;
 }
 .navbar-material-teal.navbar .dropdown-menu .active > a {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-material-teal.navbar .dropdown-menu .active > a:hover,
@@ -48308,7 +48308,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-material-teal-500.navbar {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-material-teal-500.navbar .navbar-form .form-control-wrapper input.form-control::-webkit-input-placeholder,
@@ -48336,11 +48336,11 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .navbar-material-teal-500.navbar .dropdown-menu li > a:hover,
 .navbar-material-teal-500.navbar .dropdown-menu li > a:focus {
-  color: #009688;
+  color: orange;
   background-color: #eeeeee;
 }
 .navbar-material-teal-500.navbar .dropdown-menu .active > a {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .navbar-material-teal-500.navbar .dropdown-menu .active > a:hover,
@@ -54696,11 +54696,11 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .dropdown-menu li a:hover {
   background-color: transparent;
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu li a:hover,
 .dropdown-menu-default li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-black li a:hover {
   color: #000000;
@@ -54712,7 +54712,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #3f51b5;
 }
 .dropdown-menu-primary li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-success li a:hover {
   color: #4caf50;
@@ -54751,7 +54751,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #00bcd4;
 }
 .dropdown-menu-material-teal li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-material-green li a:hover {
   color: #4caf50;
@@ -54785,7 +54785,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .dropdown-menu li a:hover,
 .dropdown-menu-default li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-black li a:hover {
   color: #000000;
@@ -54797,7 +54797,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #3f51b5;
 }
 .dropdown-menu-primary li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-success li a:hover {
   color: #4caf50;
@@ -55172,7 +55172,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #00b8d4;
 }
 .dropdown-menu-material-teal li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-material-teal-50 li a:hover {
   color: #e0f2f1;
@@ -55190,7 +55190,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #26a69a;
 }
 .dropdown-menu-material-teal-500 li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-material-teal-600 li a:hover {
   color: #00897b;
@@ -55668,7 +55668,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .dropdown-menu li a:hover,
 .dropdown-menu-default li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-black li a:hover {
   color: #000000;
@@ -55680,7 +55680,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #3f51b5;
 }
 .dropdown-menu-primary li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-success li a:hover {
   color: #4caf50;
@@ -55719,7 +55719,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #00bcd4;
 }
 .dropdown-menu-material-teal li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-material-green li a:hover {
   color: #4caf50;
@@ -55753,7 +55753,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .dropdown-menu li a:hover,
 .dropdown-menu-default li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-black li a:hover {
   color: #000000;
@@ -55765,7 +55765,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #3f51b5;
 }
 .dropdown-menu-primary li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-success li a:hover {
   color: #4caf50;
@@ -56140,7 +56140,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #00b8d4;
 }
 .dropdown-menu-material-teal li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-material-teal-50 li a:hover {
   color: #e0f2f1;
@@ -56158,7 +56158,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #26a69a;
 }
 .dropdown-menu-material-teal-500 li a:hover {
-  color: #009688;
+  color: orange;
 }
 .dropdown-menu-material-teal-600 li a:hover {
   color: #00897b;
@@ -56674,7 +56674,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: rgba(255, 255, 255, 0.84);
 }
 .alert-primary {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .alert-primary a,
@@ -56778,7 +56778,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: rgba(0, 0, 0, 0.84);
 }
 .alert-material-teal {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .alert-material-teal a,
@@ -56901,7 +56901,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: rgba(255, 255, 255, 0.84);
 }
 .alert-primary {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .alert-primary a,
@@ -57901,7 +57901,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: rgba(255, 255, 255, 0.84);
 }
 .alert-material-teal {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .alert-material-teal a,
@@ -57949,7 +57949,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: rgba(255, 255, 255, 0.84);
 }
 .alert-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
   color: rgba(255, 255, 255, 0.84);
 }
 .alert-material-teal-500 a,
@@ -59241,7 +59241,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .progress .progress-bar,
 .progress .progress-bar-default {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-black {
   background-color: #000000;
@@ -59253,7 +59253,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #3f51b5;
 }
 .progress .progress-bar-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-success {
   background-color: #4caf50;
@@ -59292,7 +59292,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #00bcd4;
 }
 .progress .progress-bar-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-material-green {
   background-color: #4caf50;
@@ -59326,7 +59326,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .progress .progress-bar,
 .progress .progress-bar-default {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-black {
   background-color: #000000;
@@ -59338,7 +59338,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #3f51b5;
 }
 .progress .progress-bar-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-success {
   background-color: #4caf50;
@@ -59713,7 +59713,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #00b8d4;
 }
 .progress .progress-bar-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-material-teal-50 {
   background-color: #e0f2f1;
@@ -59731,7 +59731,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #26a69a;
 }
 .progress .progress-bar-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-material-teal-600 {
   background-color: #00897b;
@@ -60209,7 +60209,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .progress .progress-bar,
 .progress .progress-bar-default {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-black {
   background-color: #000000;
@@ -60221,7 +60221,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #3f51b5;
 }
 .progress .progress-bar-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-success {
   background-color: #4caf50;
@@ -60260,7 +60260,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #00bcd4;
 }
 .progress .progress-bar-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-material-green {
   background-color: #4caf50;
@@ -60294,7 +60294,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 .progress .progress-bar,
 .progress .progress-bar-default {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-black {
   background-color: #000000;
@@ -60306,7 +60306,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #3f51b5;
 }
 .progress .progress-bar-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-success {
   background-color: #4caf50;
@@ -60681,7 +60681,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #00b8d4;
 }
 .progress .progress-bar-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-material-teal-50 {
   background-color: #e0f2f1;
@@ -60699,7 +60699,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   background-color: #26a69a;
 }
 .progress .progress-bar-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
 }
 .progress .progress-bar-material-teal-600 {
   background-color: #00897b;
@@ -61179,7 +61179,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #ff5722;
 }
 .text-primary {
-  color: #009688;
+  color: orange;
 }
 .text-danger {
   color: #f44336;
@@ -61191,7 +61191,7 @@ fieldset[disabled] .navbar .btn-link:focus {
   color: #03a9f4;
 }
 .nav-tabs {
-  background: #009688;
+  background: orange;
 }
 .nav-tabs > li > a {
   color: #FFFFFF;
@@ -61258,7 +61258,7 @@ icon-inverse {
 }
 .mdi-primary,
 icon-primary {
-  color: #009688;
+  color: orange;
 }
 .mdi-success,
 icon-success {
@@ -61310,7 +61310,7 @@ icon-material-cyan {
 }
 .mdi-material-teal,
 icon-material-teal {
-  color: #009688;
+  color: orange;
 }
 .mdi-material-green,
 icon-material-green {
@@ -61372,7 +61372,7 @@ icon-inverse {
 }
 .mdi-primary,
 icon-primary {
-  color: #009688;
+  color: orange;
 }
 .mdi-success,
 icon-success {
@@ -61872,7 +61872,7 @@ icon-material-cyan-A700 {
 }
 .mdi-material-teal,
 icon-material-teal {
-  color: #009688;
+  color: orange;
 }
 .mdi-material-teal-50,
 icon-material-teal-50 {
@@ -61896,7 +61896,7 @@ icon-material-teal-400 {
 }
 .mdi-material-teal-500,
 icon-material-teal-500 {
-  color: #009688;
+  color: orange;
 }
 .mdi-material-teal-600,
 icon-material-teal-600 {
@@ -62550,7 +62550,7 @@ icon-inverse {
 }
 .mdi-primary,
 icon-primary {
-  color: #009688;
+  color: orange;
 }
 .mdi-success,
 icon-success {
@@ -62602,7 +62602,7 @@ icon-material-cyan {
 }
 .mdi-material-teal,
 icon-material-teal {
-  color: #009688;
+  color: orange;
 }
 .mdi-material-green,
 icon-material-green {
@@ -62664,7 +62664,7 @@ icon-inverse {
 }
 .mdi-primary,
 icon-primary {
-  color: #009688;
+  color: orange;
 }
 .mdi-success,
 icon-success {
@@ -63164,7 +63164,7 @@ icon-material-cyan-A700 {
 }
 .mdi-material-teal,
 icon-material-teal {
-  color: #009688;
+  color: orange;
 }
 .mdi-material-teal-50,
 icon-material-teal-50 {
@@ -63188,7 +63188,7 @@ icon-material-teal-400 {
 }
 .mdi-material-teal-500,
 icon-material-teal-500 {
-  color: #009688;
+  color: orange;
 }
 .mdi-material-teal-600,
 icon-material-teal-600 {
@@ -63939,7 +63939,7 @@ icon-material-blue-grey-A700 {
   background-color: #3f51b5;
 }
 .label-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .label-success {
   background-color: #4caf50;
@@ -63978,7 +63978,7 @@ icon-material-blue-grey-A700 {
   background-color: #00bcd4;
 }
 .label-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .label-material-green {
   background-color: #4caf50;
@@ -64024,7 +64024,7 @@ icon-material-blue-grey-A700 {
   background-color: #3f51b5;
 }
 .label-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .label-success {
   background-color: #4caf50;
@@ -64399,7 +64399,7 @@ icon-material-blue-grey-A700 {
   background-color: #00b8d4;
 }
 .label-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .label-material-teal-50 {
   background-color: #e0f2f1;
@@ -64417,7 +64417,7 @@ icon-material-blue-grey-A700 {
   background-color: #26a69a;
 }
 .label-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
 }
 .label-material-teal-600 {
   background-color: #00897b;
@@ -64907,7 +64907,7 @@ icon-material-blue-grey-A700 {
   background-color: #3f51b5;
 }
 .label-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .label-success {
   background-color: #4caf50;
@@ -64946,7 +64946,7 @@ icon-material-blue-grey-A700 {
   background-color: #00bcd4;
 }
 .label-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .label-material-green {
   background-color: #4caf50;
@@ -64992,7 +64992,7 @@ icon-material-blue-grey-A700 {
   background-color: #3f51b5;
 }
 .label-primary {
-  background-color: #009688;
+  background-color: orange;
 }
 .label-success {
   background-color: #4caf50;
@@ -65367,7 +65367,7 @@ icon-material-blue-grey-A700 {
   background-color: #00b8d4;
 }
 .label-material-teal {
-  background-color: #009688;
+  background-color: orange;
 }
 .label-material-teal-50 {
   background-color: #e0f2f1;
@@ -65385,7 +65385,7 @@ icon-material-blue-grey-A700 {
   background-color: #26a69a;
 }
 .label-material-teal-500 {
-  background-color: #009688;
+  background-color: orange;
 }
 .label-material-teal-600 {
   background-color: #00897b;
@@ -65880,7 +65880,7 @@ icon-material-blue-grey-A700 {
   background-color: #3f51b5;
 }
 .panel-primary > .panel-heading {
-  background-color: #009688;
+  background-color: orange;
 }
 .panel-success > .panel-heading {
   background-color: #4caf50;
@@ -65919,7 +65919,7 @@ icon-material-blue-grey-A700 {
   background-color: #00bcd4;
 }
 .panel-material-teal > .panel-heading {
-  background-color: #009688;
+  background-color: orange;
 }
 .panel-material-green > .panel-heading {
   background-color: #4caf50;
@@ -65965,7 +65965,7 @@ icon-material-blue-grey-A700 {
   background-color: #3f51b5;
 }
 .panel-primary > .panel-heading {
-  background-color: #009688;
+  background-color: orange;
 }
 .panel-success > .panel-heading {
   background-color: #4caf50;
@@ -66340,7 +66340,7 @@ icon-material-blue-grey-A700 {
   background-color: #00b8d4;
 }
 .panel-material-teal > .panel-heading {
-  background-color: #009688;
+  background-color: orange;
 }
 .panel-material-teal-50 > .panel-heading {
   background-color: #e0f2f1;
@@ -66358,7 +66358,7 @@ icon-material-blue-grey-A700 {
   background-color: #26a69a;
 }
 .panel-material-teal-500 > .panel-heading {
-  background-color: #009688;
+  background-color: orange;
 }
 .panel-material-teal-600 > .panel-heading {
   background-color: #00897b;
@@ -66848,7 +66848,7 @@ icon-material-blue-grey-A700 {
   background-color: #3f51b5;
 }
 .panel-primary > .panel-heading {
-  background-color: #009688;
+  background-color: orange;
 }
 .panel-success > .panel-heading {
   background-color: #4caf50;
@@ -66887,7 +66887,7 @@ icon-material-blue-grey-A700 {
   background-color: #00bcd4;
 }
 .panel-material-teal > .panel-heading {
-  background-color: #009688;
+  background-color: orange;
 }
 .panel-material-green > .panel-heading {
   background-color: #4caf50;
@@ -66933,7 +66933,7 @@ icon-material-blue-grey-A700 {
   background-color: #3f51b5;
 }
 .panel-primary > .panel-heading {
-  background-color: #009688;
+  background-color: orange;
 }
 .panel-success > .panel-heading {
   background-color: #4caf50;
@@ -67308,7 +67308,7 @@ icon-material-blue-grey-A700 {
   background-color: #00b8d4;
 }
 .panel-material-teal > .panel-heading {
-  background-color: #009688;
+  background-color: orange;
 }
 .panel-material-teal-50 > .panel-heading {
   background-color: #e0f2f1;
@@ -67326,7 +67326,7 @@ icon-material-blue-grey-A700 {
   background-color: #26a69a;
 }
 .panel-material-teal-500 > .panel-heading {
-  background-color: #009688;
+  background-color: orange;
 }
 .panel-material-teal-600 > .panel-heading {
   background-color: #00897b;
@@ -67995,7 +67995,7 @@ hr.on-light {
 }
 .slider.noUi-connect,
 .slider-default.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black.noUi-connect {
   background-color: #000000;
@@ -68007,7 +68007,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success.noUi-connect {
   background-color: #4caf50;
@@ -68046,7 +68046,7 @@ hr.on-light {
   background-color: #00bcd4;
 }
 .slider-material-teal.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-green.noUi-connect {
   background-color: #4caf50;
@@ -68080,7 +68080,7 @@ hr.on-light {
 }
 .slider.noUi-connect,
 .slider-default.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black.noUi-connect {
   background-color: #000000;
@@ -68092,7 +68092,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success.noUi-connect {
   background-color: #4caf50;
@@ -68467,7 +68467,7 @@ hr.on-light {
   background-color: #00b8d4;
 }
 .slider-material-teal.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-50.noUi-connect {
   background-color: #e0f2f1;
@@ -68485,7 +68485,7 @@ hr.on-light {
   background-color: #26a69a;
 }
 .slider-material-teal-500.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-600.noUi-connect {
   background-color: #00897b;
@@ -68963,7 +68963,7 @@ hr.on-light {
 }
 .slider.noUi-connect,
 .slider-default.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black.noUi-connect {
   background-color: #000000;
@@ -68975,7 +68975,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success.noUi-connect {
   background-color: #4caf50;
@@ -69014,7 +69014,7 @@ hr.on-light {
   background-color: #00bcd4;
 }
 .slider-material-teal.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-green.noUi-connect {
   background-color: #4caf50;
@@ -69048,7 +69048,7 @@ hr.on-light {
 }
 .slider.noUi-connect,
 .slider-default.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black.noUi-connect {
   background-color: #000000;
@@ -69060,7 +69060,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success.noUi-connect {
   background-color: #4caf50;
@@ -69435,7 +69435,7 @@ hr.on-light {
   background-color: #00b8d4;
 }
 .slider-material-teal.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-50.noUi-connect {
   background-color: #e0f2f1;
@@ -69453,7 +69453,7 @@ hr.on-light {
   background-color: #26a69a;
 }
 .slider-material-teal-500.noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-600.noUi-connect {
   background-color: #00897b;
@@ -69931,7 +69931,7 @@ hr.on-light {
 }
 .slider .noUi-connect,
 .slider-default .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black .noUi-connect {
   background-color: #000000;
@@ -69943,7 +69943,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success .noUi-connect {
   background-color: #4caf50;
@@ -69982,7 +69982,7 @@ hr.on-light {
   background-color: #00bcd4;
 }
 .slider-material-teal .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-green .noUi-connect {
   background-color: #4caf50;
@@ -70016,7 +70016,7 @@ hr.on-light {
 }
 .slider .noUi-connect,
 .slider-default .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black .noUi-connect {
   background-color: #000000;
@@ -70028,7 +70028,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success .noUi-connect {
   background-color: #4caf50;
@@ -70403,7 +70403,7 @@ hr.on-light {
   background-color: #00b8d4;
 }
 .slider-material-teal .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-50 .noUi-connect {
   background-color: #e0f2f1;
@@ -70421,7 +70421,7 @@ hr.on-light {
   background-color: #26a69a;
 }
 .slider-material-teal-500 .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-600 .noUi-connect {
   background-color: #00897b;
@@ -70899,7 +70899,7 @@ hr.on-light {
 }
 .slider .noUi-connect,
 .slider-default .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black .noUi-connect {
   background-color: #000000;
@@ -70911,7 +70911,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success .noUi-connect {
   background-color: #4caf50;
@@ -70950,7 +70950,7 @@ hr.on-light {
   background-color: #00bcd4;
 }
 .slider-material-teal .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-green .noUi-connect {
   background-color: #4caf50;
@@ -70984,7 +70984,7 @@ hr.on-light {
 }
 .slider .noUi-connect,
 .slider-default .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black .noUi-connect {
   background-color: #000000;
@@ -70996,7 +70996,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success .noUi-connect {
   background-color: #4caf50;
@@ -71371,7 +71371,7 @@ hr.on-light {
   background-color: #00b8d4;
 }
 .slider-material-teal .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-50 .noUi-connect {
   background-color: #e0f2f1;
@@ -71389,7 +71389,7 @@ hr.on-light {
   background-color: #26a69a;
 }
 .slider-material-teal-500 .noUi-connect {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-600 .noUi-connect {
   background-color: #00897b;
@@ -71867,7 +71867,7 @@ hr.on-light {
 }
 .slider .noUi-handle,
 .slider-default .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black .noUi-handle {
   background-color: #000000;
@@ -71879,7 +71879,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success .noUi-handle {
   background-color: #4caf50;
@@ -71918,7 +71918,7 @@ hr.on-light {
   background-color: #00bcd4;
 }
 .slider-material-teal .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-green .noUi-handle {
   background-color: #4caf50;
@@ -71952,7 +71952,7 @@ hr.on-light {
 }
 .slider .noUi-handle,
 .slider-default .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black .noUi-handle {
   background-color: #000000;
@@ -71964,7 +71964,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success .noUi-handle {
   background-color: #4caf50;
@@ -72339,7 +72339,7 @@ hr.on-light {
   background-color: #00b8d4;
 }
 .slider-material-teal .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-50 .noUi-handle {
   background-color: #e0f2f1;
@@ -72357,7 +72357,7 @@ hr.on-light {
   background-color: #26a69a;
 }
 .slider-material-teal-500 .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-600 .noUi-handle {
   background-color: #00897b;
@@ -72835,7 +72835,7 @@ hr.on-light {
 }
 .slider .noUi-handle,
 .slider-default .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black .noUi-handle {
   background-color: #000000;
@@ -72847,7 +72847,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success .noUi-handle {
   background-color: #4caf50;
@@ -72886,7 +72886,7 @@ hr.on-light {
   background-color: #00bcd4;
 }
 .slider-material-teal .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-green .noUi-handle {
   background-color: #4caf50;
@@ -72920,7 +72920,7 @@ hr.on-light {
 }
 .slider .noUi-handle,
 .slider-default .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-black .noUi-handle {
   background-color: #000000;
@@ -72932,7 +72932,7 @@ hr.on-light {
   background-color: #3f51b5;
 }
 .slider-primary .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-success .noUi-handle {
   background-color: #4caf50;
@@ -73307,7 +73307,7 @@ hr.on-light {
   background-color: #00b8d4;
 }
 .slider-material-teal .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-50 .noUi-handle {
   background-color: #e0f2f1;
@@ -73325,7 +73325,7 @@ hr.on-light {
   background-color: #26a69a;
 }
 .slider-material-teal-500 .noUi-handle {
-  background-color: #009688;
+  background-color: orange;
 }
 .slider-material-teal-600 .noUi-handle {
   background-color: #00897b;
@@ -73803,7 +73803,7 @@ hr.on-light {
 }
 .slider .noUi-handle,
 .slider-default .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-black .noUi-handle {
   border-color: #000000;
@@ -73815,7 +73815,7 @@ hr.on-light {
   border-color: #3f51b5;
 }
 .slider-primary .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-success .noUi-handle {
   border-color: #4caf50;
@@ -73854,7 +73854,7 @@ hr.on-light {
   border-color: #00bcd4;
 }
 .slider-material-teal .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-material-green .noUi-handle {
   border-color: #4caf50;
@@ -73888,7 +73888,7 @@ hr.on-light {
 }
 .slider .noUi-handle,
 .slider-default .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-black .noUi-handle {
   border-color: #000000;
@@ -73900,7 +73900,7 @@ hr.on-light {
   border-color: #3f51b5;
 }
 .slider-primary .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-success .noUi-handle {
   border-color: #4caf50;
@@ -74275,7 +74275,7 @@ hr.on-light {
   border-color: #00b8d4;
 }
 .slider-material-teal .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-material-teal-50 .noUi-handle {
   border-color: #e0f2f1;
@@ -74293,7 +74293,7 @@ hr.on-light {
   border-color: #26a69a;
 }
 .slider-material-teal-500 .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-material-teal-600 .noUi-handle {
   border-color: #00897b;
@@ -74771,7 +74771,7 @@ hr.on-light {
 }
 .slider .noUi-handle,
 .slider-default .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-black .noUi-handle {
   border-color: #000000;
@@ -74783,7 +74783,7 @@ hr.on-light {
   border-color: #3f51b5;
 }
 .slider-primary .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-success .noUi-handle {
   border-color: #4caf50;
@@ -74822,7 +74822,7 @@ hr.on-light {
   border-color: #00bcd4;
 }
 .slider-material-teal .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-material-green .noUi-handle {
   border-color: #4caf50;
@@ -74856,7 +74856,7 @@ hr.on-light {
 }
 .slider .noUi-handle,
 .slider-default .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-black .noUi-handle {
   border-color: #000000;
@@ -74868,7 +74868,7 @@ hr.on-light {
   border-color: #3f51b5;
 }
 .slider-primary .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-success .noUi-handle {
   border-color: #4caf50;
@@ -75243,7 +75243,7 @@ hr.on-light {
   border-color: #00b8d4;
 }
 .slider-material-teal .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-material-teal-50 .noUi-handle {
   border-color: #e0f2f1;
@@ -75261,7 +75261,7 @@ hr.on-light {
   border-color: #26a69a;
 }
 .slider-material-teal-500 .noUi-handle {
-  border-color: #009688;
+  border-color: orange;
 }
 .slider-material-teal-600 .noUi-handle {
   border-color: #00897b;

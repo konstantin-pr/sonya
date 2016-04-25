@@ -53,12 +53,14 @@ a:focus {
   text-transform: uppercase;
   margin-top: 0;
   font-weight: 700;
+  color: orange !important;
 }
 .section-header .section-subtitle {
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
   margin-top: 0;
+ color: yellowgreen;
 }
 .title-small {
   font-size: 38px;
@@ -89,12 +91,9 @@ a:focus {
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
   padding: 0!important;
-  background: orange;
-   
+  background: orange;   
   background-repeat: repeat-x;
-background-image: -webkit-linear-gradient(bottom left, orange, rgba(210,255,82,1)) !important;
-
-background-image: linear-gradient(to top right, orange , rgba(210,255,82,1)) !important;
+background-image: linear-gradient(to top right, orange , rgba(255, 187, 0,1)) !important;
 }
 .sticky-navigation .row {
   padding: 0;
@@ -289,15 +288,8 @@ background-image: linear-gradient(to top right, orange , rgba(210,255,82,1)) !im
 #why {
   /*background: url(../img/why-bg.jpg);
   background-size: cover;*/
-  background: rgba(210,255,82,1);
-background: -moz-linear-gradient(left, rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%);
-background: -webkit-gradient(left top, right top, color-stop(0%, rgba(210,255,82,1)), color-stop(100%, rgba(145,232,66,1)));
-background: -webkit-linear-gradient(left, rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%);
-background: -o-linear-gradient(left, rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%);
-background: -ms-linear-gradient(left, rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%);
-background: linear-gradient(to right, rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ff52', endColorstr='#91e842', GradientType=1 );
-  color: #fff;
+ color: #fff;
+ background: linear-gradient(to bottom, #5C258D , #4389A2);
 }
 #why .content h2 {
   font-size: 50px;
@@ -429,14 +421,14 @@ background-image: linear-gradient(45deg, #663fb5, #f30);
 }
 #other-features .features-content .icon i {
   font-size: 30px;
-  color: #ccd0d2;
+  color: yellowgreen;
   transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -webkit-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
 }
 #other-features .features-content h3 {
-  color: #385461;
+  color: yellowgreen;
   line-height: 30px;
   font-size: 24px;
   font-weight: 300;
@@ -513,7 +505,7 @@ background-image: linear-gradient(45deg, #663fb5, #f30);
   width: 50px;
   margin: 0px auto;
   height: 2px;
-  background: #009688;
+  background: orange;
 }
 #counter .timer {
   font-size: 50px;
@@ -655,5 +647,8 @@ background: linear-gradient(to bottom, #5C258D , #4389A2)
 
 /*Modified Styles*/
 #why .form-control {
-color: #fff;
+ color: #fff;
+}
+.pull-top {
+    margin-top: 12%;
 }

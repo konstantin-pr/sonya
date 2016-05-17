@@ -547,18 +547,27 @@ background-repeat: repeat-x;background-image: linear-gradient(45deg, #53A306, #A
 .contact-form .form-control {
   margin-bottom: 28px;
 }
-#footer {
-  position: relative;
-  background: #5C258D;/* fallback for old browsers */
-  background: -webkit-linear-gradient(to bottom, #5C258D , #4389A2);/* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to bottom, #53A306 , green);
+ #footer, #copyright {
+
+/*  background: #5C258D; 
+  background: -webkit-linear-gradient(to bottom, #5C258D , #4389A2);
+  background: linear-gradient(to bottom, #53A306 , green);*/ 
+background: #1CD8D2; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #1CD8D2 , #93EDC7); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #1CD8D2 , #93EDC7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+       
 }
+
+#footer{
+   position: relative;
+}
+
 #footer h3 {
   color: #fff;
   font-weight: 900;
 }
 #footer ul li a {
-  color: orange;
+  color: #3D7EAA;
   transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -webkit-transition: all 0.2s ease;
@@ -570,9 +579,7 @@ background-repeat: repeat-x;background-image: linear-gradient(45deg, #53A306, #A
   color: #fff;
   margin-left: 4px;
 }
-#copyright {
-  background: green;
-}
+
 #copyright .copyright-text {
   color: #fff;
   margin-top: 15px;
@@ -583,6 +590,7 @@ background-repeat: repeat-x;background-image: linear-gradient(45deg, #53A306, #A
   -moz-transition: all 0.2s ease;
   -webkit-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
+  color: #FFE47A;
 }
 .back-to-top {
   position: absolute;
